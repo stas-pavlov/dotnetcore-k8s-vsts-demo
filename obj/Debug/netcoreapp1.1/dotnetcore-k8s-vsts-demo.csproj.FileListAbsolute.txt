@@ -1,0 +1,9 @@
+c:\Users\stanisp\Source\Repos\dotnetcore-k8s-vsts-demo\bin\Debug\netcoreapp1.1\dotnetcore-k8s-vsts-demo.deps.json
+c:\Users\stanisp\Source\Repos\dotnetcore-k8s-vsts-demo\bin\Debug\netcoreapp1.1\dotnetcore-k8s-vsts-demo.runtimeconfig.json
+c:\Users\stanisp\Source\Repos\dotnetcore-k8s-vsts-demo\bin\Debug\netcoreapp1.1\dotnetcore-k8s-vsts-demo.runtimeconfig.dev.json
+c:\Users\stanisp\Source\Repos\dotnetcore-k8s-vsts-demo\bin\Debug\netcoreapp1.1\dotnetcore-k8s-vsts-demo.dll
+c:\Users\stanisp\Source\Repos\dotnetcore-k8s-vsts-demo\bin\Debug\netcoreapp1.1\dotnetcore-k8s-vsts-demo.pdb
+c:\Users\stanisp\Source\Repos\dotnetcore-k8s-vsts-demo\obj\Debug\netcoreapp1.1\dotnetcore-k8s-vsts-demo.csproj.CoreCompileInputs.cache
+c:\Users\stanisp\Source\Repos\dotnetcore-k8s-vsts-demo\obj\Debug\netcoreapp1.1\dotnetcore-k8s-vsts-demo.AssemblyInfo.cs
+c:\Users\stanisp\Source\Repos\dotnetcore-k8s-vsts-demo\obj\Debug\netcoreapp1.1\dotnetcore-k8s-vsts-demo.dll
+c:\Users\stanisp\Source\Repos\dotnetcore-k8s-vsts-demo\obj\Debug\netcoreapp1.1\dotnetcore-k8s-vsts-demo.pdb

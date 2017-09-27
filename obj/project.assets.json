@@ -9629,11 +9629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\stanisp\\Source\\Repos\\dotnetcore-k8s-vsts-demo\\dotnetcore-k8s-vsts-demo.csproj",
+      "projectUniqueName": "C:\\Users\\stanisp\\Source\\Repos\\dotnetcore-k8s-vsts-demo\\dotnetcore-k8s-vsts-demo.csproj",
       "projectName": "dotnetcore-k8s-vsts-demo",
-      "projectPath": "c:\\Users\\stanisp\\Source\\Repos\\dotnetcore-k8s-vsts-demo\\dotnetcore-k8s-vsts-demo.csproj",
+      "projectPath": "C:\\Users\\stanisp\\Source\\Repos\\dotnetcore-k8s-vsts-demo\\dotnetcore-k8s-vsts-demo.csproj",
       "packagesPath": "C:\\Users\\stanisp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\stanisp\\Source\\Repos\\dotnetcore-k8s-vsts-demo\\obj\\",
+      "outputPath": "C:\\Users\\stanisp\\Source\\Repos\\dotnetcore-k8s-vsts-demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stanisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
